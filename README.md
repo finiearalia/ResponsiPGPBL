@@ -17,9 +17,9 @@
 
 
 >**Komponen/Tampilan Produk**
->![Home Page]("https://i.ibb.co.com/c2p2kSf/Homepage.jpg")
+>![Home Page](https://i.ibb.co.com/c2p2kSf/Homepage.jpg)
 >![Daftar Museum](https://i.ibb.co.com/xFxQ0zf/Daftar-Museum.jpg)
 >![Peta](https://i.ibb.co.com/CMb793W/Peta.jpg)
->![Ulasan]("https://i.ibb.co.com/QKBNBvZ/Whats-App-Image-2024-12-15-at-21-15-24-d86ae977.jpg")
+>![Ulasan](https://i.ibb.co.com/QKBNBvZ/Whats-App-Image-2024-12-15-at-21-15-24-d86ae977.jpg)
 
 >**Museum Jadi Seru, Jelajah Bareng Kamu!**
